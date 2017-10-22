@@ -28,3 +28,4 @@ Download the repository .zip file, extract it, change to the project repository,
 - webpack
 - tests (mocha + enzyme + chai + sinon)
 - react + redux
+- bootstrap v4
